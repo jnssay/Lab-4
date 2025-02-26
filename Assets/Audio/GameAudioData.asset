@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2a2dde683c376f419f30df520ce5aaa, type: 3}
+  m_Name: GameAudioData
+  m_EditorClassIdentifier: 
+  mainMenuMusic: {fileID: 8300000, guid: 718d9f68fc8830e4d900bb1dbeb7e3cc, type: 3}
+  cauldronMusic: {fileID: 8300000, guid: 718d9f68fc8830e4d900bb1dbeb7e3cc, type: 3}
+  levitationMusic: {fileID: 8300000, guid: 718d9f68fc8830e4d900bb1dbeb7e3cc, type: 3}
+  buttonHoverSFX: {fileID: 8300000, guid: 80c4562f897963d4e8e97a18ec8e5521, type: 3}
+  buttonClickSFX: {fileID: 8300000, guid: 7b3a4fffc55b3584b8fc097433a92ad6, type: 3}
+  itemGrabSFX: {fileID: 8300000, guid: 8472f740c9831ed428d716f7cb14781d, type: 3}
+  cauldronSplashSFX: {fileID: 8300000, guid: 569969ec2e641b5469d14f1c691af894, type: 3}
+  transitionStartSFX: {fileID: 8300000, guid: 49058ef8fb8bbc146a99ee2d7b417105, type: 3}
+  powerUpSpawnSFX: {fileID: 8300000, guid: 23382eeee79c09e4586d90e95cb9289a, type: 3}
+  powerUpActivateSFX: {fileID: 8300000, guid: 569969ec2e641b5469d14f1c691af894, type: 3}
+  explosionSFX: {fileID: 0}
+  gameOverSFX: {fileID: 8300000, guid: 17a441f816ec63b47b9379a909c8cd6a, type: 3}
